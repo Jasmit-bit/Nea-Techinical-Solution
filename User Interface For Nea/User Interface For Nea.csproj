@@ -46,16 +46,43 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Djikstras.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Djikstras.Designer.cs">
+      <DependentUpon>Djikstras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kruskal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kruskal.Designer.cs">
+      <DependentUpon>Kruskal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prims.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prims.Designer.cs">
+      <DependentUpon>Prims.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Recommended.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recommended.Designer.cs">
+      <DependentUpon>Recommended.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Djikstras.resx">
+      <DependentUpon>Djikstras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

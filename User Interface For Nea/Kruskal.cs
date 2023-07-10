@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace User_Interface_For_Nea
 {
-    public partial class Form1 : Form
+    public partial class Kruskal : Form
     {
-        public Form1()
+        public Kruskal()
         {
             InitializeComponent();
         }

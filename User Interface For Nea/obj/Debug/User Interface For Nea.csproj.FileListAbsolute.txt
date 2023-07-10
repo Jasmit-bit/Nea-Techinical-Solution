@@ -1,0 +1,12 @@
+E:\My Drive\Nea\Nea-Techinical-Solution\User Interface For Nea\bin\Debug\User Interface For Nea.exe.config
+E:\My Drive\Nea\Nea-Techinical-Solution\User Interface For Nea\bin\Debug\User Interface For Nea.exe
+E:\My Drive\Nea\Nea-Techinical-Solution\User Interface For Nea\bin\Debug\User Interface For Nea.pdb
+E:\My Drive\Nea\Nea-Techinical-Solution\User Interface For Nea\obj\Debug\User Interface For Nea.csproj.AssemblyReference.cache
+E:\My Drive\Nea\Nea-Techinical-Solution\User Interface For Nea\obj\Debug\User Interface For Nea.csproj.SuggestedBindingRedirects.cache
+E:\My Drive\Nea\Nea-Techinical-Solution\User Interface For Nea\obj\Debug\User_Interface_For_Nea.Djikstras.resources
+E:\My Drive\Nea\Nea-Techinical-Solution\User Interface For Nea\obj\Debug\User_Interface_For_Nea.MainMenu.resources
+E:\My Drive\Nea\Nea-Techinical-Solution\User Interface For Nea\obj\Debug\User_Interface_For_Nea.Properties.Resources.resources
+E:\My Drive\Nea\Nea-Techinical-Solution\User Interface For Nea\obj\Debug\User Interface For Nea.csproj.GenerateResource.cache
+E:\My Drive\Nea\Nea-Techinical-Solution\User Interface For Nea\obj\Debug\User Interface For Nea.csproj.CoreCompileInputs.cache
+E:\My Drive\Nea\Nea-Techinical-Solution\User Interface For Nea\obj\Debug\User Interface For Nea.exe
+E:\My Drive\Nea\Nea-Techinical-Solution\User Interface For Nea\obj\Debug\User Interface For Nea.pdb
